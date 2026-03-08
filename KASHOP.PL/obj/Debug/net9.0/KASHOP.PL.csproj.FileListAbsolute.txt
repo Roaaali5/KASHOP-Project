@@ -174,3 +174,9 @@ C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\zh-
 C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.dll
 C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Mapster.Core.dll
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\obj\Debug\net9.0\KASHOP.PL.sourcelink.json
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LaptopCenter\Desktop\Api\Project1\KASHOP\KASHOP.PL\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll

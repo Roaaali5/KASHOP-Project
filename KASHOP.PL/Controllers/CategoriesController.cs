@@ -49,7 +49,24 @@ namespace KASHOP.PL.Controllers
             }); 
         }
 
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetBYId(int id)
+        {
+            return Ok(await _categoryService.GetCategory(c => c.Id == id));
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var deleted = await _categoryService.DeleteCategory(id);
+            if (!deleted)
+            {
+                return NotFound(new { message = _localizer["NotFound"].Value });
+            }
+            return Ok( new { _localizer["Success"].Value });
+        }
+
+
+    }
        
 
     
