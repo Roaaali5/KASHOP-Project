@@ -35,7 +35,7 @@ namespace KASHOP.PL.Controllers
 
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> Index(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             var brand = await _brandService.GetBrand(p => p.Id == id);
             if (brand == null) return NotFound();

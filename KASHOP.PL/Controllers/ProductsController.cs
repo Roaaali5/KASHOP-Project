@@ -36,7 +36,7 @@ namespace KASHOP.PL.Controllers
 
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> Index(int id)
+        public async Task<IActionResult> GetById(int id)
         {
             var product = await _productService.GetProduct(p => p.Id==id);
             if (product == null) return NotFound();

@@ -91,8 +91,7 @@
               "RelativeToolTip": "KASHOP.PL\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T14:36:54.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T14:36:54.084Z"
             },
             {
               "$type": "Document",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "KASHOP.PL\\Controllers\\BrandsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwD4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T14:27:36.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T14:27:36.374Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "KASHOP.BLL\\Service\\BrandService.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T14:11:50.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T14:11:50.746Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\ProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T13:51:23.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T13:51:23.583Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "KASHOP.DAL\\DTO\\Response\\BrandResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:53:18.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:53:18.189Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "KASHOP.BLL\\Service\\IBrandService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T14:02:55.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T14:02:55.756Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "KASHOP.DAL\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAADQAAAAAAAAAAADwv0AAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T13:04:18.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T13:04:18.957Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "KASHOP.DAL\\Repository\\BrandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T13:11:16.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T13:11:16.29Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "KASHOP.BLL\\Service\\FileService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T10:01:25.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T10:01:25.903Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "KASHOP.DAL\\Repository\\IBrandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T13:11:45.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T13:11:45.089Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "KASHOP.DAL\\Models\\BrandTranslation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T12:03:39.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T12:03:39.039Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "KASHOP.DAL\\Models\\Brand.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T11:56:49.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T11:56:49.183Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "KASHOP.BLL\\Service\\IFileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T10:04:00.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T10:04:00.745Z"
             }
           ]
         }
