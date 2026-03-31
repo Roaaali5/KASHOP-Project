@@ -11,5 +11,9 @@ namespace KASHOP.BLL.Service
     public interface IAuthenicationService
     {
         Task<RegisterResponse> RegisterAsync(RegisterRequest request);
+        Task<LoginResponse> LoginAsync(LoginRequest request0);
+        Task<bool> ConfirmEmailAsync(string token, string userId);
+        Task<ForgotPasswordResponse> RequestPasswordResetAsync(ForgotPasswordRequest request);
+        Task<ResetPasswordResponse> ResetPasswordAsync(ResetPasswordRequest request);
     }
 }
